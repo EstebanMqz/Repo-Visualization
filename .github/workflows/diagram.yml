@@ -1,5 +1,4 @@
 #Set up read and write permissions in .yml file (https://github.com/<user>/<repo>/settings/actions)
-permissions: read-all|write-all
 name: Create Diagram
 on:
   workflow_dispatch: {}
