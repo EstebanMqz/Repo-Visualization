@@ -1,7 +1,7 @@
 # ***Repository Visualization Template***
 
 ## **Description:**
-This repository is a template of a workflow to make my repositories interactive through a web-app displayed in a `diagram.svg` file in the root directory.
+This repository is a template of a workflow to make repositories interactive through a web-app displayed in a `diagram.svg` file in the root directory.
 
 ### **Example:**
 *Web-interaction with dependencies of a public repository:*
@@ -38,5 +38,4 @@ If diagram is not showing go to `Actions` tab in repo -> select last available `
 ---
 ### **References:** 
 [Repo Visualizer](https://github.com/githubocto/repo-visualizer)  from *githubocto*.
-
 
