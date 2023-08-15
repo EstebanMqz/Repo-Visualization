@@ -41,7 +41,9 @@ Template to make / review repositories interactive by their content size. <br>
 <i><b>Note:</b> If diagram is not showing go to `Actions` tab in repository -> select last available `workflow run` -> `Re-run all jobs`.</i>
 <br><br>
 
-<img src="diagram.svg" width="380" height="380">
+![diagram](https://github.com/EstebanMqz/repo-visualization/blob/main/diagram.svg)
+
+<!-- Locally: <img src="diagram.svg" width="380" height="380"> -->
 
 Triggered by <i>workflow runs</i> action or <i>pushes/pull</i> requests to main branch.
 
