@@ -1,7 +1,7 @@
 <div align="center">
   <h1>Repository Visualization Template</h1>
 </div>
-
+<div class="yellow-bar"></div>
 
 <Details> <Summary> <i>Tools:</i> </Summary>
 
@@ -14,6 +14,14 @@
 
 ##### License:&nbsp;[![Creative Commons BY 3.0](https://img.shields.io/badge/License-CC%20BY%203.0-a6811b.svg?style=square&logo=creative-commons&logoColor=white)](https://creativecommons.org/licenses/by/3.0/)
 </Details>
+
+<div align="right">
+<Details>
+<Summary> <i>Contact:</i> </Summary>
+  
+<a href="https://www.linkedin.com/in/esteban-m65381722210212839/"><img width="40px" src="https://img.icons8.com/?size=512&id=MR3dZdlA53te&format=png"></a> <a href="https://api.whatsapp.com/send?phone=+523338588106&text=%20Hi%20Esteban,%20my%20name%20is%20"> <img width="35px" src="https://img.icons8.com/color/452/whatsapp--v1.png"></a> <a href="mailto:emarquez1895@gmail.com"> <img width="40px" src="https://img.icons8.com/color/452/gmail-new.png"></a> <a href="https://gitlab.com/EstebanMqz"><img width="40px" src="https://img.icons8.com/color/452/gitlab.png"></a> <a href="https://github.com/EstebanMqz?tab=repositories"><img width="40px" src="https://cdn3d.iconscout.com/3d/free/thumb/free-github-6343501-5220956.png?f=webp"></a>
+
+</Details></div>
 
 ---
 
@@ -33,7 +41,7 @@ Template to make / review repositories interactive by their content size. <br>
 <i><b>Note:</b> If diagram is not showing go to `Actions` tab in repository -> select last available `workflow run` -> `Re-run all jobs`.</i>
 <br><br>
 
-![Diagram](https://github.com/EstebanMqz/repo-visualization/blob/main/diagram.svg)
+<img src="diagram.svg" width="380" height="380">
 
 Triggered by <i>workflow runs</i> action or <i>pushes/pull</i> requests to main branch.
 
