@@ -18,16 +18,22 @@
 <div align="right">
 <Details>
 <Summary> <i>Contact:</i> </Summary>
-  
-<a href="https://www.linkedin.com/in/esteban-m65381722210212839/"><img width="40px" src="https://img.icons8.com/?size=512&id=MR3dZdlA53te&format=png"></a> <a href="https://api.whatsapp.com/send?phone=+523338588106&text=%20Hi%20Esteban,%20my%20name%20is%20"> <img width="35px" src="https://img.icons8.com/color/452/whatsapp--v1.png"></a> <a href="mailto:emarquez1895@gmail.com"> <img width="40px" src="https://img.icons8.com/color/452/gmail-new.png"></a> <a href="https://gitlab.com/EstebanMqz"><img width="40px" src="https://img.icons8.com/color/452/gitlab.png"></a> <a href="https://github.com/EstebanMqz?tab=repositories"><img width="40px" src="https://cdn3d.iconscout.com/3d/free/thumb/free-github-6343501-5220956.png?f=webp"></a>
+
+[<img width="40px" src="https://img.icons8.com/ios/50/0e55b3/resume-website.png">](https://estebanmqz.github.io/EstebanMqz/html/Resume.html)
+[<img width="40px" src="https://img.icons8.com/?size=512&id=MR3dZdlA53te&format=png">](https://www.linkedin.com/in/esteban-m-653817205/)
+[<img width="35px" src="https://img.icons8.com/color/452/whatsapp--v1.png">](https://tinyurl.com/2y86e2wa)
+[<img width="40px" src="https://img.icons8.com/color/452/gmail-new.png">](mailto:emarquez1895@gmail.com)
+[<img width="40px" src="https://cdn3d.iconscout.com/3d/free/thumb/free-github-6343501-5220956.png?f=webp">](https://github.com/EstebanMqz?tab=repositories)
+[<img width="40px" src="https://img.icons8.com/color/452/gitlab.png">](https://gitlab.com/EstebanMqz)
+
 
 </Details></div>
 
----
-
 ## **Description:**
-Template to make / review repositories interactive by their content size. <br>
+Template to make / review repositories interactive by their content & size. <br>
 [`pwd`](https://en.wikipedia.org/wiki/PWD) <i>default:</i> `diagram.svg`.
+
+---
 
 <Details>
 <Summary> <b>Workflow:</b> </Summary>
@@ -49,21 +55,20 @@ Triggered by <i>workflow runs</i> action or <i>pushes/pull</i> requests to main 
 
 </Details>
 
-<Details>
-<Summary> <i>Without workflow:</i> </Summary>
-<br>
-<i>Shell script execution (in repo): </i>
+--- 
+<i>Note: Interactivity is enabled through web interface.</i>
+
+<i> Azure Static Web [![Azure-Visualization](https://img.shields.io/badge/Repo-Visualization-010b38?style=square&logo=github&logoColor=black)](https://github.com/EstebanMqz/repo-visualization/blob/main/repo_visualization.sh) program for git repositories (no workflow required): </i>
 
 ```bash
-./repo_visualization.sh
-Enter the username: 'username'
-Enter the repository name: 'repository'
+$ "./repo_visualization.sh"
+
+Enable system permissions? (y/n) "y"
+Opening Azure Static Repo Visualization to username/repository on web browser...
+#Note: Reload website if you encounter any problems.
 ```
+
 </Details>
-
-<br>
-
-<i>Interactivity enabled through web interface</i>
 
 ---
 ### **References:** 
