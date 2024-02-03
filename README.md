@@ -24,16 +24,13 @@ Template to make / review repositories interactive by their content & size. <br>
 <br><br>
 
 ``` bash
-#Obtain hash & manually insert it in README.md in the following raw img src.
+#Obtain hash & manually insert it in README.md from the raw img src.
 git rev-parse HEAD
 ```
 <br>
 
 <div style="text-align:center">
-    <img src="https://raw.githubusercontent.com/EstebanMqz/repo-visualization/4b58c69adca30ef70907457403e9a02700584141/images/diagram.svg" width="350"><br><br>
-    <a href="https://mango-dune-07a8b7110.1.azurestaticapps.net/?repo=EstebanMqz%2Frepo-visualization"><img src="https://img.shields.io/badge/Repository-Visualization-0089D6?style=square&amp;logo=microsoft-azure&amp;logoColor=white"></a>
-</div>
-
+    <img src="https://raw.githubusercontent.com/EstebanMqz/repo-visualization/4b58c69adca30ef70907457403e9a02700584141/images/diagram.svg" width="350"><br>
 </div><br>
 
 <!-- Locally: <img src="diagram.svg" width="380" height="380"> -->
@@ -43,8 +40,17 @@ Triggered by <i>workflow runs</i> action or <i>pushes/pull</i> requests to main 
 </Details>
 
 --- 
+<i>Note: Interactivity is enabled through web interface.</i>
 
+<i> Azure Web for git repositories (no workflow req.): [![Azure-Visualization](https://img.shields.io/badge/Repo-Visualization-010b38?style=square&logo=github&logoColor=black)](https://github.com/EstebanMqz/repo-visualization/tree/main/shell/repo-visualization.sh) </i>
 
+```bash
+#Run in shell subdir
+$ "./repo-visualization.sh"
+
+Opening Azure Static Repo Visualization to username/repository on web browser...
+#Note: Reload website if you encounter any problems.
+```
 
 </Details>
 
