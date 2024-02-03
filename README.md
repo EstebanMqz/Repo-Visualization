@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>Repository Visualization Template</h1>
+  <h1>Visualization Template</h1>
 </div>
 <div class="yellow-bar"></div>
 
@@ -23,26 +23,29 @@ Template to make / review repositories interactive by their content & size. <br>
 <i><b>Note:</b> If diagram is not showing go to `Actions` tab in repository -> select last available `workflow run` -> `Re-run all jobs`.</i>
 <br><br>
 
-![diagram](https://raw.githubusercontent.com/EstebanMqz/repo-visualization/dfe299181b4e552adc0c056f864748100028b121/diagram.svg)
+``` bash
+#Obtain hash & manually insert it in README.md in the following raw img src.
+git rev-parse HEAD
+```
+<br>
+
+<div style="text-align:center">
+    <a href="https://mango-dune-07a8b7110.1.azurestaticapps.net/?repo=EstebanMqz%2Frepo-visualization">
+    <img src="https://img.shields.io/badge/Repository-Visualization-0089D6?style=square&amp;logo=microsoft-azure&amp;logoColor=white"></a><br>
+    <img src="https://raw.githubusercontent.com/EstebanMqz/repo-visualization/4b58c69adca30ef70907457403e9a02700584141/images/diagram.svg" width="350"><br>
+</div>
+
+</div><br>
 
 <!-- Locally: <img src="diagram.svg" width="380" height="380"> -->
 
-Triggered by <i>workflow runs</i> action or <i>pushes/pull</i> requests to main branch.
+Triggered by <i>workflow runs</i> action or <i>pushes/pull</i> requests to main branch <i>(raw img)</i>.
 
 </Details>
 
 --- 
-<i>Note: Interactivity is enabled through web interface.</i>
 
-<i> Azure Static Web [![Azure-Visualization](https://img.shields.io/badge/Repo-Visualization-010b38?style=square&logo=github&logoColor=black)](https://github.com/EstebanMqz/repo-visualization/blob/main/repo_visualization.sh) program for git repositories (no workflow required): </i>
 
-```bash
-$ "./repo_visualization.sh"
-
-Enable system permissions? (y/n) "y"
-Opening Azure Static Repo Visualization to username/repository on web browser...
-#Note: Reload website if you encounter any problems.
-```
 
 </Details>
 
