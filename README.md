@@ -30,9 +30,8 @@ git rev-parse HEAD
 <br>
 
 <div style="text-align:center">
-    <a href="https://mango-dune-07a8b7110.1.azurestaticapps.net/?repo=EstebanMqz%2Frepo-visualization">
-    <img src="https://img.shields.io/badge/Repository-Visualization-0089D6?style=square&amp;logo=microsoft-azure&amp;logoColor=white"></a><br>
-    <img src="https://raw.githubusercontent.com/EstebanMqz/repo-visualization/4b58c69adca30ef70907457403e9a02700584141/images/diagram.svg" width="350"><br>
+    <img src="https://raw.githubusercontent.com/EstebanMqz/repo-visualization/4b58c69adca30ef70907457403e9a02700584141/images/diagram.svg" width="350"><br><br>
+    <a href="https://mango-dune-07a8b7110.1.azurestaticapps.net/?repo=EstebanMqz%2Frepo-visualization"><img src="https://img.shields.io/badge/Repository-Visualization-0089D6?style=square&amp;logo=microsoft-azure&amp;logoColor=white"></a>
 </div>
 
 </div><br>
